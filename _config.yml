@@ -18,7 +18,7 @@ tagline: Critical Statistical Thinking
 description: A class devote to the evaluation of reports on experimental research.
 author: Yoav Freund
 baseurl: '/CriticalStatisticalThinking' # the subpath of your site, e.g. /blog
-url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
@@ -28,7 +28,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  Kevin Lin:
+  Yoav Freund:
     - 'https://cseweb.ucsd.edu/~yfreund/'
   Just the Class on GitHub:
     - 'https://github.com/yoavfreund/CriticalStatisticalThinking'
