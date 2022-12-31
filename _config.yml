@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Critical Statistical Thinking and experimental design
-tagline: A Jekyll template for course websites
+tagline: Critical Statistical Thinking
 description: A class devote to the evaluation of reports on experimental research.
 author: Yoav Freund
-baseurl: '/just-the-class' # the subpath of your site, e.g. /blog
+baseurl: '/CriticalStatisticalThinking' # the subpath of your site, e.g. /blog
 url: 'https://kevinl.info' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -29,7 +29,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Kevin Lin:
-    - 'https://kevinl.info'
+    - 'https://cseweb.ucsd.edu/~yfreund/'
   Just the Class on GitHub:
     - 'https://github.com/yoavfreund/CriticalStatisticalThinking'
 footer_content:
